@@ -34,7 +34,7 @@
 
 ​	训练好的模型存放在model_dir中，没有进行model.eval()，使用时需先model.eval()再进行预测，预测效果如下：
 
-![R7QP4S$FCIU5PUD@]JGQRD9](img/R7QP4S$FCIU5PUD@]JGQRD9.png)
+![R7QP4S$FCIU5PUD@]JGQRD9](./img/R7QP4S$FCIU5PUD@]JGQRD9.png)
 
 
 
